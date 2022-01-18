@@ -189,7 +189,7 @@ Completando la tabla se obtiene de la siguiente manera:
 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente surespuesta.
 
 
-- Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia. Incluyen que al momento de realizar una grafica podemos ver el pico donde tiene un maximo como lo dice la teoria.
+- Podemos decir que si se cumple ya que la fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL la cual en este caso seria la resistencia rl=1000ohm, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente se acerca a la resitencia del circuito que es de 1200ohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia. Incluyen que al momento de realizar una grafica podemos ver el pico donde tiene un maximo como lo dice la teoria.
 
 ![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/87c1fc95e6abcfd40e3e0cfc3ed78748a361722d/pico.png)
 
@@ -206,7 +206,7 @@ Completando la tabla se obtiene de la siguiente manera:
 
 # 5) Video
 
-
+https://youtu.be/Meq7Kv5ZjE0
 
 
 # 6) Conclusiones.
