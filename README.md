@@ -55,9 +55,74 @@ Resolver el siguente circuito:
 
 ![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/478fa16df2fa615b82dcfb09891983868746a8a0/lab%206.png)
 
-Mida el voltaje y la corriente para cada valor de RL:
+Mida el voltaje y la corriente para cada valor de RL. Tambien Calcule las potencia consumida por RL, para cada valor dado.
+
+Calculos:
+
+Para la potencia:
+
+P=I^2*RL
+
+1) RL=220 Ω
+
+I=15/(1200+220)=10,56mA
+
+P=〖(10,56)〗^2*220=24,53mW
+
+2) RL=470 Ω
+
+I=15/(1200+470)=8,98mA
+
+P=〖(8,98)〗^2*470=37,91mW
+
+3) RL=680 Ω
+
+I=15/(1200+680)=7,97mA
+
+P=(7,97)^2*680=43,2mW
+
+4) RL=820 Ω
+
+I=15/(1200+820)=7,42mA
+
+P=〖(7,42)〗^2*820=45,21mW
+
+5) RL=1000 Ω
+
+I=15/(1200+1000)=6,81mA
+
+P=〖(6,81)〗^2*1000=46,48mW
+
+6) RL=1500 Ω
+
+I=15/(1200+1500)=5,55mA
+
+P=〖(5,55)〗^2*1500=46,29mW
+
+7) RL=1800 Ω
+
+I=15/(1200+1800)=5mA
+
+P=〖(5)〗^2*1800=45mW
+
+8) RL=2200 Ω
 
 
+I=15/(1200+2200)=4,41mA
+
+P=〖(4,41)〗^2*2200=42,82mW
+
+9) RL=3900 Ω
+
+I=15/(1200+3900)=2,94mA
+
+P=〖(2,94)〗^2*3900=33,7mW
+
+10) RL=4700 Ω
+
+I=15/(1200+4700)=2,54mA
+
+P=〖(2,54)〗^2*4700=30,3mW
 
 
 ![]()
