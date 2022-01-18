@@ -35,8 +35,11 @@ Pasos para resolver problemas relacionados con el teorema de transferencia de po
 Se siguen los pasos mencionados a continuación para resolver problemas de teoría de transferencia de potencia. Hay otras formas, pero seguir estos pasos conducirá a una ruta más eficiente.
 
 Paso 1: Descubra la resistencia de carga del circuito. Ahora retírelo del circuito.
+
 Paso 2: Calcule la resistencia equivalente de Thevenin del circuito desde el punto de vista de la rama de resistencia de carga en circuito abierto.
+
 Paso 3: Ahora, como dice la teoría, la nueva resistencia de carga será la resistencia equivalente de Thevenin. Esta es la resistencia responsable de la máxima transferencia de potencia.
+
 Paso 4: Entonces se deriva la potencia máxima. Viene como sigue.
 
 PMAX V =TH2 / 4RTH
