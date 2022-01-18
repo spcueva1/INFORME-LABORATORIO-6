@@ -125,25 +125,78 @@ I=15/(1200+4700)=2,54mA
 P=〖(2,54)〗^2*4700=30,3mW
 
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/calcl%20lab%206/1.png)
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/calcl%20lab%206/2.png)
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/calcl%20lab%206/3.png)
 
 
 Simulacion en Tinkercard:
 
-Imagen 1 simulador
+Imagen 1 simulador RL=220 Ω
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/220.jpeg)
 
-Imagen 2 simulador
+Imagen 2 simulador RL=470 Ω
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/470.jpeg)
 
-Imagen 3 simulador
+Imagen 3 simulador RL=680 Ω
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/680.jpeg)
+
+Imagen 4 simulador RL=820 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/820.jpeg)
+
+Imagen 5 simulador RL=1000 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/1000.jpeg)
+
+Imagen 6 simulador RL=1500 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/1500.jpeg)
+
+Imagen 7 simulador RL=1800 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/1800.jpeg)
+
+Imagen 8 simulador RL=2200 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/2200.jpeg)
+
+Imagen 9 simulador RL=3900 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/3900.jpeg)
+
+Imagen 10 simulador RL=4700 Ω
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/4700.jpeg)
 
 
 # 4) Respuesta a interrogantes y cálculo de error.
+
+Completando la tabla se obtiene de la siguiente manera: 
+
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/fdd06c6bf0870094cfc8a5c253b2db4ee4b2f938/Mac%20inf%20lab6/Tabla.jpeg)
+
+
+
+¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente surespuesta.
+
+
+- Si se cumple puesto que una fuente de voltaje entrega la máxima transferencia de potencia a una resistencia de carga RL, cuando el valor de esta resistencia es igual a la resistencia interna de la fuente, RS, y como se observa la resitencia RL de 1kohm es la que mas se acerca a la resitencia RS 1.2kohm, y es con esta resistencia donde se obtiene la máxima transferencia de potencia.
+
+
+¿Cuál fue la potencia máxima en RL?
+
+0.0465 Watts
+
+
+¿Para qué valor de RL se obtiene la MTP?
+
+1000 Ω
 
 
 # 5) Video
