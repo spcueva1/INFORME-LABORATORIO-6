@@ -24,7 +24,7 @@ Donde las resistencias son iguales en magnitud y las reactancias también iguale
 - Cuando ZL es el complejo conjugado de Zsal, se transfiere potencia máxima desde el circuito hasta la carga con un factor de potencia de 1. En la figura  se muestra un circuito
 equivalente con su carga e impedancia de salida.
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/adb81509e4e1ba409698da2181447ca593fa8f7b/Mac%20inf%20lab6/1.png)
 
 Se transfiere potencia máxima a una carga cuando la impedancia de carga es el complejo conjugado de la impedancia del circuito de control.
 
@@ -43,13 +43,18 @@ PMAX V =TH2 / 4RTH
 
 Mapa conceptual
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/adb81509e4e1ba409698da2181447ca593fa8f7b/Mac%20inf%20lab6/Mapa.jpg)
 
 
 
 
 # 3) Explicacion de procedimiento
 
+
+Resolver el siguente circuito: 
+
+![]()
+Mida el voltaje y la corriente para cada valor de RL:
 
 
 
