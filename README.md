@@ -53,7 +53,8 @@ Mapa conceptual
 
 Resolver el siguente circuito: 
 
-![]()
+![](https://github.com/spcueva1/INFORME-LABORATORIO-6/blob/478fa16df2fa615b82dcfb09891983868746a8a0/lab%206.png)
+
 Mida el voltaje y la corriente para cada valor de RL:
 
 
